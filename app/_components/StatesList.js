@@ -127,7 +127,7 @@ function StatesList({ statesData, designData }) {
 						}}
 					>
 						<div className="flex items-center col-start-2 justify-center ">
-							State Filter
+							Product Filter
 						</div>
 
 						<StateVariants
