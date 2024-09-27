@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Frontend Developer Assignment: UI Implementation
 
-## Getting Started
+## Objective
 
-First, run the development server:
+The task is to create a user interface (UI) which is table-like where each row represents a state, and each column contains design variants.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project includes the following core functionalities:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Add/Delete a State (row).
+- Add/Delete Variant Columns.
+- Optional feature: Insert a design into a variant column.
+- Scroll functionality for more than 3 variants.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Live Demo
 
-## Learn More
+You can view the live demo hosted on [Vercel](https://your-vercel-link-here.com).
 
-To learn more about Next.js, take a look at the following resources:
+## Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. **Add/Delete State:**
+   - Dynamically add or remove rows in the table.
+   
+2. **Add/Delete Variant Columns:**
+   - Dynamically add or remove variant columns for each state.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+3. **Design Insertion (Optional):**
+   - Insert specific designs into the variant columns for each state.
 
-## Deploy on Vercel
+4. **Scrollable Variant Columns:**
+   - If the number of variants exceeds 4, a scrollable layout appears as shown in the reference video.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Tech Stack
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Frontend**: React.js (Next.js)
+- **CSS Framework**: Tailwind CSS
+- **React-hot-toast Library**: Used for toast messages
+- **headlessui**: Used for Dailog component
+
+## Installation
+
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+ 
+   git clone https://github.com/your-username/retainiq-frontend-assignment.git
+
+2. Navigate to the project directory :
+ 
+   cd retainiq-frontend-assignment
+   
+3. npm install
+   
+4. npm run dev
+
+## ScreenShotes :
+![Screenshot 2024-09-27 235534](https://github.com/user-attachments/assets/d4cba0f0-8a4b-4a86-a699-99b8549ea9a6)
+![Screenshot 2024-09-27 235622](https://github.com/user-attachments/assets/7ec1f52a-cd4f-43a3-a9df-498c08735dc3)
+![Screenshot 2024-09-27 235642](https://github.com/user-attachments/assets/e8eee547-dcad-4474-a2d6-e19551a0e3d2)
+![Screenshot 2024-09-27 235655](https://github.com/user-attachments/assets/b3cc00f6-03d0-4fdc-ac80-b926bebbd0dd)
+
+
+
+
+
+ 
+
