@@ -54,10 +54,11 @@ To set up the project locally, follow these steps:
 4. npm run dev
 
 ## ScreenShotes :
-    ![image](https://github.com/user-attachments/assets/e18308a2-8617-471f-9df0-80fda03b9126)
-    ![image](https://github.com/user-attachments/assets/c90fc660-d467-4a89-b351-2449221d989a)
-    ![image](https://github.com/user-attachments/assets/13642874-2353-4ed7-80f3-6663c7c8aeed)
-    ![image](https://github.com/user-attachments/assets/e1ba06f0-256f-4d9c-b4fc-227190638f1b)
+![Screenshot 2024-09-27 235534](https://github.com/user-attachments/assets/d4cba0f0-8a4b-4a86-a699-99b8549ea9a6)
+![Screenshot 2024-09-27 235622](https://github.com/user-attachments/assets/7ec1f52a-cd4f-43a3-a9df-498c08735dc3)
+![Screenshot 2024-09-27 235642](https://github.com/user-attachments/assets/e8eee547-dcad-4474-a2d6-e19551a0e3d2)
+![Screenshot 2024-09-27 235655](https://github.com/user-attachments/assets/b3cc00f6-03d0-4fdc-ac80-b926bebbd0dd)
+
 
 
 
